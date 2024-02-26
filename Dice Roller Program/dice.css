@@ -1,0 +1,45 @@
+body{
+    background-color: #c5f5e5;
+}
+
+#container {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+button {
+    border-radius: 5px;
+    color: white;
+    background-color: blue;
+    border:none;
+    padding: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1.7rem;
+    margin:10px;
+}
+
+button:hover {
+    background-color: red;
+}
+
+input {
+    font-size: 1.7rem;
+    font-weight: bold;
+    width: 100px;
+    text-align: center;
+}
+
+#roll-images img {
+    width: 50px; 
+    height: auto;
+    margin: 0 5px;
+    margin: 20px; 
+}
+
+#roll-result{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 10px;
+    font-size:30px;
+}
